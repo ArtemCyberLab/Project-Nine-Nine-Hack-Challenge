@@ -38,8 +38,8 @@ Output showed:
 I connected to FTP with anonymous credentials:
 
 ftp 10.201.60.152
-# Username: anonymous
-# Password: anonymous
+Username: anonymous
+Password: anonymous
 ls -la
 get note_to_jake.txt
 bye
@@ -63,7 +63,7 @@ Found password: 987654321
 
 4️⃣ SSH Login
 ssh jake@10.201.60.152
-# Enter password: 987654321
+Enter password: 987654321
 cd /home
 ls
 
